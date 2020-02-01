@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Cellulant.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>606C15EE15A2EF6BABEC57E57258D9DAA573E42F</string>
+				<key>dateExpires</key>
+				<string>10/22/20</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>606C15EE15A2EF6BABEC57E57258D9DAA573E42F</string>
+						<key>dateExpires</key>
+						<string>10/22/20</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Alamofire.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>F29YK55A4S</string>
+						<key>name</key>
+						<string>LEADWAY VIE</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>606C15EE15A2EF6BABEC57E57258D9DAA573E42F</string>
+						<key>dateExpires</key>
+						<string>10/22/20</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>IQKeyboardManager.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>F29YK55A4S</string>
+						<key>name</key>
+						<string>LEADWAY VIE</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>606C15EE15A2EF6BABEC57E57258D9DAA573E42F</string>
+						<key>dateExpires</key>
+						<string>10/22/20</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SwiftSpinner.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>F29YK55A4S</string>
+						<key>name</key>
+						<string>LEADWAY VIE</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>606C15EE15A2EF6BABEC57E57258D9DAA573E42F</string>
+						<key>dateExpires</key>
+						<string>10/22/20</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SwiftValidator.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>F29YK55A4S</string>
+						<key>name</key>
+						<string>LEADWAY VIE</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>606C15EE15A2EF6BABEC57E57258D9DAA573E42F</string>
+						<key>dateExpires</key>
+						<string>10/22/20</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>UnderLineTextField.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>F29YK55A4S</string>
+						<key>name</key>
+						<string>LEADWAY VIE</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>F29YK55A4S.com.abiolaakinnubi.knowledge</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>F29YK55A4S</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>F29YK55A4S.com.abiolaakinnubi.knowledge</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Cellulant.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>bf244873-f210-4115-beb4-296b4bff2d25</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>F29YK55A4S</string>
+				<key>name</key>
+				<string>LEADWAY VIE</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
