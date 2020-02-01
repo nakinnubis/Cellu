@@ -95,7 +95,7 @@
                                 </constraints>
                             </imageView>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="29" translatesAutoresizingMaskIntoConstraints="NO" id="z1C-5d-tRf">
-                                <rect key="frame" x="20" y="370" width="374" height="301.5"/>
+                                <rect key="frame" x="20" y="330" width="374" height="301.5"/>
                                 <subviews>
                                     <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2qD-Tk-cLc">
                                         <rect key="frame" x="0.0" y="0.0" width="374" height="0.0"/>
@@ -138,7 +138,7 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <constraints>
                             <constraint firstItem="z1C-5d-tRf" firstAttribute="leading" secondItem="Y6Q-OH-WHh" secondAttribute="leadingMargin" id="980-mg-tdP"/>
-                            <constraint firstItem="z1C-5d-tRf" firstAttribute="top" secondItem="sGb-94-dng" secondAttribute="bottom" constant="100" id="Qnb-dL-Mbi"/>
+                            <constraint firstItem="z1C-5d-tRf" firstAttribute="top" secondItem="sGb-94-dng" secondAttribute="bottom" constant="60" id="Qnb-dL-Mbi"/>
                             <constraint firstItem="aIX-vH-Cob" firstAttribute="trailing" secondItem="sGb-94-dng" secondAttribute="trailing" constant="87" id="nui-2s-O2Q"/>
                             <constraint firstItem="sGb-94-dng" firstAttribute="leading" secondItem="Y6Q-OH-WHh" secondAttribute="leading" constant="87" id="oDg-Yn-b6g"/>
                             <constraint firstItem="z1C-5d-tRf" firstAttribute="centerX" secondItem="sGb-94-dng" secondAttribute="centerX" id="qOQ-ol-15E"/>

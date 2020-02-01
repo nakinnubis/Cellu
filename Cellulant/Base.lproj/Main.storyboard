@@ -165,7 +165,10 @@
                                 </connections>
                             </tableView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zNP-pu-OKc">
-                                <rect key="frame" x="167" y="821" width="80" height="30"/>
+                                <rect key="frame" x="170.5" y="821" width="73" height="30"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="70" id="A7f-Qw-bBe"/>
+                                </constraints>
                                 <state key="normal" title="Load more"/>
                                 <connections>
                                     <action selector="loadMore:" destination="qSe-5s-7ob" eventType="touchUpInside" id="Ua6-uM-hqt"/>
@@ -177,11 +180,10 @@
                             <constraint firstItem="JHx-Sv-SQl" firstAttribute="leading" secondItem="TEW-ai-PTW" secondAttribute="leading" id="4g3-MQ-Coa"/>
                             <constraint firstItem="zNP-pu-OKc" firstAttribute="top" secondItem="JHx-Sv-SQl" secondAttribute="bottom" constant="18" id="D2O-wr-JGp"/>
                             <constraint firstItem="TEW-ai-PTW" firstAttribute="trailing" secondItem="JHx-Sv-SQl" secondAttribute="trailing" id="D3o-7E-GDC"/>
-                            <constraint firstItem="TEW-ai-PTW" firstAttribute="trailing" secondItem="zNP-pu-OKc" secondAttribute="trailing" constant="167" id="Msm-Vx-c22"/>
+                            <constraint firstItem="zNP-pu-OKc" firstAttribute="centerX" secondItem="JHx-Sv-SQl" secondAttribute="centerX" id="OCP-Kk-sd8"/>
                             <constraint firstItem="zNP-pu-OKc" firstAttribute="top" secondItem="JHx-Sv-SQl" secondAttribute="bottom" constant="18" id="juZ-F8-ltB"/>
                             <constraint firstItem="JHx-Sv-SQl" firstAttribute="top" secondItem="TEW-ai-PTW" secondAttribute="top" id="ovG-qJ-VY8"/>
                             <constraint firstItem="TEW-ai-PTW" firstAttribute="bottom" secondItem="zNP-pu-OKc" secondAttribute="bottom" constant="11" id="sDL-Ns-l1x"/>
-                            <constraint firstItem="zNP-pu-OKc" firstAttribute="leading" secondItem="TEW-ai-PTW" secondAttribute="leading" constant="167" id="wsA-Q1-oNH"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="TEW-ai-PTW"/>
                     </view>

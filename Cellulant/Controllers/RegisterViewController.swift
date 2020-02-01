@@ -57,6 +57,7 @@ class RegisterViewController: UIViewController,ValidationDelegate {
             validator.validate(self)
         }
         else{
+            SwiftSpinner.hide()
              error.isHidden = false;
             error.text = "Password doesn't match each other"
         }
