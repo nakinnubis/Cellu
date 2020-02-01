@@ -162,12 +162,14 @@ strip_invalid_archs() {
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/IQKeyboardManager/IQKeyboardManager.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/SwiftSpinner/SwiftSpinner.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/SwiftValidator/SwiftValidator.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/UnderLineTextField/UnderLineTextField.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/IQKeyboardManager/IQKeyboardManager.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/SwiftSpinner/SwiftSpinner.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/SwiftValidator/SwiftValidator.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/UnderLineTextField/UnderLineTextField.framework"

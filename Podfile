@@ -4,4 +4,5 @@ target 'Cellulant' do
 pod 'SwiftSpinner'
 pod 'UnderLineTextField', '~> 2.0'
   pod 'SwiftValidator', :git => 'https://github.com/jpotts18/SwiftValidator.git', :tag => '4.2.0'
+   pod 'IQKeyboardManager' 
 end

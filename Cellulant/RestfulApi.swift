@@ -2,7 +2,7 @@
 //  RestfulApi.swift
 //  Reharsal
 //
-//  Created by Oluwafemi Faseyitan on 1/28/20.
+//  Created by Akinnubi Abiola on 1/28/20.
 //  Copyright © 2020 Leadway.com. All rights reserved.
 //
 

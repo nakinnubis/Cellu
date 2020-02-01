@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Cellulant
 //
-//  Created by Oluwafemi Faseyitan on 1/30/20.
+//  Created by Akinnubi Abiola on 1/30/20.
 //  Copyright © 2020 abiolaakinnubi.com. All rights reserved.
 //
 
